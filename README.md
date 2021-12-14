@@ -1,3 +1,3 @@
 # manualTransmission-complete
 
-![alt text](Capture.png "Title")
+![alt text](Capture.PNG)
